@@ -1,0 +1,1 @@
+export default function Acerca(){return <div className="p-8"><h1 className="text-3xl font-bold">Acerca de</h1></div>}
